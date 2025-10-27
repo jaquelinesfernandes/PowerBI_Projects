@@ -21,8 +21,8 @@ O Dashboard criado teve como objetivo atender a demanda de negócio com base de 
 
 #### 🧰 Dashboard:
 
-![Image](Images/dashboard_resumo_fluxocaixa.png)
-![Image](Images/dashboard_detalhemento_fluxocaixa.png)
+![Image]([Images/dashboard_resumo_fluxocaixa.png](https://github.com/jaquelinesfernandes/PowerBI_Projects/blob/main/PBI_FluxoCaixa/Images/dashboard_resumo_fluxocaixa.png))
+![Image](https://github.com/jaquelinesfernandes/PowerBI_Projects/blob/main/PBI_FluxoCaixa/Images/dashboard_detalhemento_fluxocaixa.png)
 
 #### 💻 Link PowerBI
-[Fluxo de Caixa](https://app.powerbi.com/links/y3hI6Oq4kE?ctid=ab92b966-4489-4c22-9fc6-1535db65d26f&pbi_source=linkShare)
+[Fluxo de Caixa](https://app.powerbi.com/view?r=eyJrIjoiN2JkZmIzYmYtMmNhNC00NTg0LTgzODUtMTM4OWM3NDEwZGVkIiwidCI6ImFiOTJiOTY2LTQ0ODktNGMyMi05ZmM2LTE1MzVkYjY1ZDI2ZiJ9)

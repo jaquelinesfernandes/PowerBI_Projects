@@ -20,8 +20,8 @@ O Dashboard criado teve como objetivo atender a demanda de negócio com base de 
 
 #### 🧰  Dashboard:
 
-![Image](Images\dasboard_market.png)
+![Image](https://github.com/jaquelinesfernandes/PowerBI_Projects/blob/main/PBI_StockMarket/Images/dasboard_market.png)
 
 #### 💻 Link PowerBI
-[Análise de Mercado de Ações](https://app.powerbi.com/links/OOnixaK_7B?ctid=ab92b966-4489-4c22-9fc6-1535db65d26f&pbi_source=linkShare)
+[Análise de Mercado de Ações](https://app.powerbi.com/view?r=eyJrIjoiOGE5ZDY5ZjEtOTBjMy00OTk2LWE3MTUtNDYwYTJmMzQ3OTVlIiwidCI6ImFiOTJiOTY2LTQ0ODktNGMyMi05ZmM2LTE1MzVkYjY1ZDI2ZiJ9)
 

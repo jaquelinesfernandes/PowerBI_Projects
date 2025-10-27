@@ -26,9 +26,9 @@ Considerando dados históricos de clientes que realizaram compras em nossa empre
 
 ### 🧰 Relatório Final:
 
-![Image](\images\image.png)
+![Image](https://github.com/jaquelinesfernandes/PowerBI_Projects/blob/main/PBI_ML_Seg_Clientes/images/image.png)
 
 #### 💻 Link PowerBI
-[Segmentação de Clientes - Marketing](https://app.powerbi.com/links/RXN3v4m9Eg?ctid=ab92b966-4489-4c22-9fc6-1535db65d26f&pbi_source=linkShare)
+[Segmentação de Clientes - Marketing](https://app.powerbi.com/view?r=eyJrIjoiMmJhMWY3ZWItODIyMS00M2JmLTlmYjEtYWZhMjA0MDg4ZTRkIiwidCI6ImFiOTJiOTY2LTQ0ODktNGMyMi05ZmM2LTE1MzVkYjY1ZDI2ZiJ9)
 
 

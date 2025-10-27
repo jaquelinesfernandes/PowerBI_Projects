@@ -14,8 +14,8 @@ Analise dos Dados, com técnicas simples de visualização de dados temporais.
 
 #### 🧰 Dashboards:
 
-![Image](\image\image.png)
+![Image](https://github.com/jaquelinesfernandes/PowerBI_Projects/blob/main/PBI_EngenhariaProducao/image/dashboard_engproducao.png)
 
 
 #### 💻 Link PowerBI
-[Analise de Série Temporal - Engenharia de Produção](https://app.powerbi.com/links/t9du-xSJOq?ctid=ab92b966-4489-4c22-9fc6-1535db65d26f&pbi_source=linkShare)
+[Analise de Série Temporal - Engenharia de Produção](https://app.powerbi.com/view?r=eyJrIjoiN2YxMWQwMWQtM2JjOC00YTc4LWFlOGUtYWJmZjlhYjkxODZiIiwidCI6ImFiOTJiOTY2LTQ0ODktNGMyMi05ZmM2LTE1MzVkYjY1ZDI2ZiJ9)

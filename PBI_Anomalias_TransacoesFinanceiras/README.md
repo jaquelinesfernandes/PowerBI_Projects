@@ -16,7 +16,7 @@ Aplicando modelo de Machine Learning para calculo de dispersão e detecção de 
 
 #### 🧰  Dashboard:
 
-![Image](\image\dashboard_anomalia.png)
+![Image](https://github.com/jaquelinesfernandes/PowerBI_Projects/blob/main/PBI_Anomalias_TransacoesFinanceiras/image/dashboard_anomalia.png)
 
 #### 💻 Link PowerBI
-[Detecção de Anomalias](https://app.powerbi.com/links/PvdsRK3DFj?ctid=ab92b966-4489-4c22-9fc6-1535db65d26f&pbi_source=linkShare)
+[Detecção de Anomalias](https://app.powerbi.com/view?r=eyJrIjoiYTY3ZmJjNTktZjk1Zi00Y2ZkLWFjZGEtYjZkYTQ5OTZiOWM3IiwidCI6ImFiOTJiOTY2LTQ0ODktNGMyMi05ZmM2LTE1MzVkYjY1ZDI2ZiJ9)

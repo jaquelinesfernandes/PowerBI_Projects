@@ -22,7 +22,7 @@ O Dashboard criado teve como objetivo atender a demanda de negócio com base de 
 - Colunas condicionais
 
 #### 🧰 Dashboard:
-![Dash](Images\dashboard_rh_pbi.png)
+![Dash](https://github.com/jaquelinesfernandes/PowerBI_Projects/blob/main/PBI_RecursosHumanos/Images/dashboard_rh_pbi.png)
 
 #### 💻 Link PowerBI
-[Análise de Recursos Humanos](https://app.powerbi.com/links/Y-KbqKPsOD?ctid=ab92b966-4489-4c22-9fc6-1535db65d26f&pbi_source=linkShare)
+[Análise de Recursos Humanos](https://app.powerbi.com/view?r=eyJrIjoiOGM5NTc5YjUtOWQ1Ny00NmU3LWI0ODktM2RiZWEyNTY3NzA2IiwidCI6ImFiOTJiOTY2LTQ0ODktNGMyMi05ZmM2LTE1MzVkYjY1ZDI2ZiJ9)

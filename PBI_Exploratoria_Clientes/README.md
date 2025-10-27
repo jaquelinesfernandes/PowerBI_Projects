@@ -31,8 +31,8 @@ Analise Exploratória, Limpeza e Tratamento dos Dados, técnica para tratamento 
   - Criação de Dashboard
 
 #### 🤝 Dashboards:
-![](Images\image.png)
+![](https://github.com/jaquelinesfernandes/PowerBI_Projects/blob/main/PBI_Exploratoria_Clientes/Images/image.png)
 
 
 #### 💻 Link PowerBI
-[Analise Exploratoria - Perfil de Cliente](https://app.powerbi.com/links/vb_41ExAah?ctid=ab92b966-4489-4c22-9fc6-1535db65d26f&pbi_source=linkShare)
+[Analise Exploratoria - Perfil de Cliente](https://app.powerbi.com/view?r=eyJrIjoiZDA3YTgzYzUtMDZkZC00OTI1LWJlNTgtOWU3YmMwYTYzMDJkIiwidCI6ImFiOTJiOTY2LTQ0ODktNGMyMi05ZmM2LTE1MzVkYjY1ZDI2ZiJ9)
