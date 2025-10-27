@@ -1,22 +1,22 @@
-# PBI_Contabil
+# 📊 PBI - Balanço Patrimonial - Contabilidade
 
 ![Power BI](https://img.shields.io/badge/Power-BI-d6c936?style=for-the-badge&logo=power-bi&logoColor=white)
 
-## Análise de Dados com Power BI área Contábil
-
 O Dashboard criado teve como objetivo atender a demanda de negócio com base de dados fictícios a fim de praticar conceitos estudados:
 
-#### Dor de Negócio:
+#### 🧪 Dor de Negócio:
 
-    - Exibição plano de contas contábil
+- Exibição plano de contas contábil
 
+#### ⚙️ Recursos e Funcionalidades Exploradas:
 
-#### Recursos e Funcionalidades Exploradas:
+  - Visual de Matriz
+  - Navegação com Hierarquia com Drill Up/Down
+  - Layout de Nível
 
-    - Visual de Matriz
-    - Navegação com Hierarquia com Drill Up/Down
-    - Layout de Nível
+#### 🧰 Dashboard:
 
-#### Dashboard:
+![Image](\Images\image.png)
 
-![Image](https://github.com/jaquelinesilfe/PBI_Contabil/blob/main/Images/matriz_contabil.png)
+#### 💻 Link PowerBI
+[Contabilidade - Balanço Patrimonial](https://app.powerbi.com/links/XopeZtKBwq?ctid=ab92b966-4489-4c22-9fc6-1535db65d26f&pbi_source=linkShare)

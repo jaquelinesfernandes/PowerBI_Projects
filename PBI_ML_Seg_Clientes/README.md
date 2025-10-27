@@ -1,4 +1,4 @@
-# ML_PBI_Seg_Clientes
+# 📊 Segmentação de Clientes com Machine Learning
 Usando Maching Learning para Segmentacao de Clientes com Jupiter Notebook.
 
 
@@ -6,17 +6,17 @@ Usando Maching Learning para Segmentacao de Clientes com Jupiter Notebook.
 ![Python](https://img.shields.io/badge/Python-d6c936?style=for-the-badge&logo=python&logoColor=blue)
 ![Python](https://img.shields.io/badge/Pandas-dc930?style=for-the-badge&logo=pandas&logoColor=black)
 
-### Problema de Negócio:
+### 🧪 Problema de Negócio:
 
 Considerando dados históricos de clientes que realizaram compras em nossa empresa, realize o agrupamento (segmentação) dos clientes por similaridade de características em 3 grupos e finalize com um relatório compartilhado com a equipe de Marketing.
 
-### Bibliotecas Python:
+### 💻 Bibliotecas Python:
  - Pandas
  - Sklearn
  - PowerBI Client
 
 
-### Etapas Jupyter Notebook:
+### ⚙️Etapas Jupyter Notebook:
  - Carregamento de Dados
  - Análise Exploratória
  - Pré-processamento dos dados (StandarScaler)
@@ -24,6 +24,11 @@ Considerando dados históricos de clientes que realizaram compras em nossa empre
  - Geração de Relatório com Power BI
  - Edição final do relatório Power BI
 
-### Relatório Final:
+### 🧰 Relatório Final:
 
-![Image](https://github.com/jaquelinesilfe/ML_PBI_Seg_Clientes/blob/main/images/dashboard_seg_clientes.png)
+![Image](\images\image.png)
+
+#### 💻 Link PowerBI
+[Segmentação de Clientes - Marketing](https://app.powerbi.com/links/RXN3v4m9Eg?ctid=ab92b966-4489-4c22-9fc6-1535db65d26f&pbi_source=linkShare)
+
+

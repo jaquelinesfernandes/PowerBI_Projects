@@ -1,4 +1,4 @@
-# 📊 Power BI Projects
+# 📊 Projetos com Power BI
 
 Este repositório reúne diversos projetos desenvolvidos com Power BI, voltados para análise de dados em diferentes áreas como finanças, logística, produção, recursos humanos e mais.
 
